@@ -1,0 +1,9 @@
+{
+    "name": "CSM SF Extension",
+    "description": "Internal tool for IPRO CSM staff to leverage Salesforce Flow for Upsell opportunities without abandoning workflow",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
